@@ -72,7 +72,6 @@ MediWork is a **full-stack web application** designed to streamline medical appo
 | **👔 RH** | Human Resources | Visit scheduling, doctor assignment, spontaneous visit processing |
 | **👨‍⚕️ DOCTOR** | Medical Professional | Visit confirmation, recurring slot management, calendar view |
 | **👤 COLLABORATOR** | Employee | Spontaneous visit requests, visit tracking, personal dashboard |
-| **⏳ PENDING** | Awaiting Approval | Limited access until role assignment |
 
 ---
 
