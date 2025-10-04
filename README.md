@@ -144,7 +144,6 @@ graph TB
 ##  **DEMO **
 <img width="902" height="437" alt="image" src="https://github.com/user-attachments/assets/785df887-595d-49a4-8291-546553a7a695" />
 <img width="1298" height="636" alt="image" src="https://github.com/user-attachments/assets/21b52b3d-f7b6-48f3-851a-6ba819d1f051" />
-<img width="1303" height="637" alt="image" src="https://github.com/user-attachments/assets/99e089a1-9d50-4fc3-be79-4978793761e0" />
 <img width="1300" height="535" alt="image" src="https://github.com/user-attachments/assets/0e7b14af-818c-4785-b961-4cde70ff4d3f" />
 <img width="1297" height="624" alt="image" src="https://github.com/user-attachments/assets/b57dcd36-e0cc-4418-b90b-20af6d86a894" />
 <img width="1299" height="640" alt="image" src="https://github.com/user-attachments/assets/28ac9580-b5e9-4c20-9175-464a55385c72" />
