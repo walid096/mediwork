@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🏥 MediWork - Enterprise Medical Visit Management System
 
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.3-brightgreen.svg)](https://spring.io/projects/spring-boot)
@@ -15,7 +14,7 @@ MediWork is a **full-stack web application** designed to streamline medical appo
 
 ### **Key Features**
 - 🔐 **Enterprise Security**: JWT + Refresh Token authentication with account locking
-- 👥 **Role-Based Access Control**: 5 distinct user roles with granular permissions
+- 👥 **Role-Based Access Control**: 5 distinct user roles with  permissions restricted per role.
 - 📅 **Intelligent Scheduling**: Automated slot management with conflict prevention
 - 🔄 **Spontaneous Visit Requests**: Employee-initiated requests with approval workflows
 - 📊 **Comprehensive Analytics**: Real-time dashboards with role-specific insights
@@ -283,35 +282,17 @@ POST /api/spontaneous-visits/{id}/confirm # Confirm (RH)
 
 ---
 
-## 🚀 **Deployment & DevOps**
 
-### **Production Deployment**
-- **Docker Support**: Containerized deployment ready
-- **CI/CD Pipeline**: Automated testing and deployment
-- **Environment Configuration**: Multi-environment support
-- **Health Checks**: Application monitoring and alerting
-
-### **Monitoring & Logging**
-- **Application Metrics**: Performance monitoring
-- **Error Tracking**: Centralized error logging
-- **User Analytics**: Usage pattern analysis
-- **Security Monitoring**: Threat detection and alerting
 
 ---
 
 ## 🎯 **Business Value**
 
 ### **Efficiency Gains**
-- **50% Reduction** in manual scheduling coordination
-- **90% Decrease** in scheduling conflicts
-- **75% Faster** visit request processing
-- **100% Audit Trail** for compliance
-
-### **User Experience**
-- **Intuitive Interface**: Role-specific dashboards
-- **Real-time Updates**: Live status notifications
-- **Mobile Responsive**: Access from any device
-- **Accessibility**: WCAG 2.1 AA compliant
+- **Reduction** in manual scheduling coordination
+- **Decrease** in scheduling conflicts
+- **Faster** visit request processing
+- **Audit Trail** for compliance
 
 ---
 
@@ -325,57 +306,6 @@ POST /api/spontaneous-visits/{id}/confirm # Confirm (RH)
 - 🌐 **Multi-language Support**: Internationalization
 - ☁️ **Cloud Deployment**: AWS/Azure cloud integration
 
----
-
-## 👥 **Contributing**
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
-### **Development Workflow**
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests for new functionality
-5. Submit a pull request
-
----
-
-## 📄 **License**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👨‍💻 **Developer**
-
-**Marjane** - *Full-Stack Developer*
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- 📧 Email: your.email@example.com
-
----
-
-## 🙏 **Acknowledgments**
-
-- **SQLI Company** for the business requirements and domain expertise
-- **Spring Boot Community** for the excellent framework
-- **React Community** for the powerful frontend library
-- **Material-UI Team** for the beautiful component library
-
----
-
-## 📞 **Support**
-
-For support, email support@mediwork.com or create an issue in this repository.
-
----
-
-<div align="center">
-
-**⭐ Star this repository if you found it helpful!**
-
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/mediwork.svg?style=social&label=Star)](https://github.com/yourusername/mediwork)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/mediwork.svg?style=social&label=Fork)](https://github.com/yourusername/mediwork/fork)
 
 </div>
 =======
