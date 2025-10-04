@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏥 MediWork - Enterprise Medical Visit Management System
 
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.3-brightgreen.svg)](https://spring.io/projects/spring-boot)
@@ -377,3 +378,7 @@ For support, email support@mediwork.com or create an issue in this repository.
 [![GitHub forks](https://img.shields.io/github/forks/yourusername/mediwork.svg?style=social&label=Fork)](https://github.com/yourusername/mediwork/fork)
 
 </div>
+=======
+# mediwork
+Full-stack enterprise medical visit management system
+>>>>>>> d3cd303bf14f23b31c036632bd726d4adb11e7f7
