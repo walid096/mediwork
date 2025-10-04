@@ -277,23 +277,6 @@ POST /api/spontaneous-visits/{id}/confirm # Confirm (RH)
 - **E2E Tests**: Complete user workflow testing
 - **Accessibility Tests**: WCAG compliance testing
 
----
-
-## 📊 **Project Statistics**
-
-| Metric | Value |
-|--------|-------|
-| **Backend Lines of Code** | ~8,500 |
-| **Frontend Lines of Code** | ~6,200 |
-| **API Endpoints** | 35+ |
-| **Database Tables** | 7 |
-| **User Roles** | 5 |
-| **Test Coverage** | 85%+ |
-| **Documentation Coverage** | 90%+ |
-
----
-
-
 
 ---
 
