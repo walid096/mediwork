@@ -141,6 +141,19 @@ graph TB
 
 ---
 
+##  **DEMO **
+<img width="902" height="437" alt="image" src="https://github.com/user-attachments/assets/785df887-595d-49a4-8291-546553a7a695" />
+<img width="1298" height="636" alt="image" src="https://github.com/user-attachments/assets/21b52b3d-f7b6-48f3-851a-6ba819d1f051" />
+<img width="1303" height="637" alt="image" src="https://github.com/user-attachments/assets/99e089a1-9d50-4fc3-be79-4978793761e0" />
+<img width="1300" height="535" alt="image" src="https://github.com/user-attachments/assets/0e7b14af-818c-4785-b961-4cde70ff4d3f" />
+<img width="1297" height="624" alt="image" src="https://github.com/user-attachments/assets/b57dcd36-e0cc-4418-b90b-20af6d86a894" />
+<img width="1299" height="640" alt="image" src="https://github.com/user-attachments/assets/28ac9580-b5e9-4c20-9175-464a55385c72" />
+<img width="1292" height="611" alt="image" src="https://github.com/user-attachments/assets/4c38fbca-f9cd-4a47-9bbf-229d29764460" />
+<img width="1297" height="619" alt="image" src="https://github.com/user-attachments/assets/93cc7696-91d3-4790-a64d-55c7821088d0" />
+<img width="1303" height="632" alt="image" src="https://github.com/user-attachments/assets/dc724347-097a-47b9-a30b-9bd7f0c6bf04" />
+<img width="1295" height="629" alt="image" src="https://github.com/user-attachments/assets/916d6933-c067-46f3-8703-f1e19aa3133a" />
+
+
 ## 🛠️ **Installation & Setup**
 
 ### **Prerequisites**
@@ -306,9 +319,3 @@ POST /api/spontaneous-visits/{id}/confirm # Confirm (RH)
 - 🌐 **Multi-language Support**: Internationalization
 - ☁️ **Cloud Deployment**: AWS/Azure cloud integration
 
-
-</div>
-=======
-# mediwork
-Full-stack enterprise medical visit management system
->>>>>>> d3cd303bf14f23b31c036632bd726d4adb11e7f7
